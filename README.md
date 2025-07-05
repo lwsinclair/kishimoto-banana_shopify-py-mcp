@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-kishimoto-banana-shopify-py-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-kishimoto-banana-shopify-py-mcp)
+
 # Shopify Python MCP Server
 
 Shopify APIと連携するMCPサーバーです。このサーバーを使用することで、Claude DesktopからShopifyの商品情報を取得・操作することができます。
